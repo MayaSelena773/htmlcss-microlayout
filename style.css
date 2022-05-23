@@ -31,3 +31,22 @@
 .ms_flex {
     display: flex;
 }
+
+/*price-section*/
+
+.left_text {
+    background-color: lightcoral;
+    height: 200px;
+}
+
+.right_btn {
+    background-color: aqua;
+    height: 200px;
+}
+
+/*content-price-section*/
+
+.line-through {
+    text-decoration: line-through;
+    color: red;
+}
